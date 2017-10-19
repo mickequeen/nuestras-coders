@@ -1,0 +1,63 @@
+body{
+	font-family: 'Arvo', serif;
+}
+.line{
+	border-bottom: 5px solid black;
+	width: 70px;
+}
+.picture{
+	height: 150px;
+	width: 150px;
+	position: relative;
+	float: left;
+	padding-right: 25px;
+	padding-top: 10px;
+}
+.top{
+	height: 175px;
+	width: 1200px;	
+	display: block;
+}
+.name{
+	position: absolute;
+	top:170px;
+	color: #FFFFFF;
+	background-color:#000;
+	padding:2px 10px;
+	opacity:0.8;
+	font-weight:bold;	
+}
+.a{
+	left: 16px;
+
+}
+.b{
+	left: 192px;
+}
+.c{
+	left: 361px;
+}
+
+.down{
+	height: 160px;
+	width: 1200px;	
+}
+
+.nm{
+	position: absolute;
+	top:345px;
+	color: #FFFFFF;
+	background-color:#000;
+	padding:2px 10px;
+	opacity:0.8;
+	font-weight:bold;
+}
+.d{
+	left: 18px;
+}
+.e{
+	left: 222px;
+}
+.f{
+	left: 370px;
+}
